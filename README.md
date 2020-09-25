@@ -1,7 +1,7 @@
 # README
 My trainy - project (solo)
  - Full task description: https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails.
- -[Live-version](https://arcane-hollows-45661.herokuapp.com/)
+ 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -25,3 +25,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+- [Live-version](https://arcane-hollows-45661.herokuapp.com/)
